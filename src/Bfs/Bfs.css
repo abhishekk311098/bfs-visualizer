@@ -1,0 +1,8 @@
+.Bfs {
+  background-color: ece7e7;
+}
+
+.Bfs > canvas {
+  position: absolute;
+  left: 0;
+}
